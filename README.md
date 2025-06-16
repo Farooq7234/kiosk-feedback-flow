@@ -28,7 +28,7 @@
 
 # Submission Screen
 
-![Project Screenshot](./public/Submission.png)
+![Project Screenshot](./public/submission.png)
 
 # Local Storage Results
 
