@@ -17,7 +17,7 @@ const QuestionCard = ({ question, value, onChange }: QuestionCardProps) => {
     const ratings = Array.from({ length: question.scale || 5 }, (_, i) => i + 1);
     
     return (
-      <div className="space-y-6">
+      <div className="space-y-6 w-full">
         <div className="flex justify-center">
           <div className="flex space-x-2">
             {ratings.map((rating) => (

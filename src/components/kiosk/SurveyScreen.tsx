@@ -71,7 +71,7 @@ const SurveyScreen = ({
 
   return (
     <>
-      <Card className="bg-white/90 backdrop-blur-sm shadow-2xl border-0">
+      <Card className="bg-white/90 backdrop-blur-sm shadow-2xl border-0  ">
         <CardHeader className="pb-4">
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-2xl font-bold text-gray-800">Customer Feedback</h2>
